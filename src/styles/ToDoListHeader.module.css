@@ -1,0 +1,22 @@
+.to-do-list-header-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+.to-do-header{
+text-align: left;
+font-size: 24px;
+color: rgb(111, 197, 166);
+margin-bottom: 0px;
+margin-top: 12.5px;
+}
+
+.tasks-tracker{
+text-align: left;
+margin-top: 2px;
+margin-left: 3px;
+font-weight: 400;
+font-style: italic;
+margin-bottom:10px;
+}

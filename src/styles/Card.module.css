@@ -1,0 +1,17 @@
+.card-outer-container{
+    display: flex;
+    justify-content:space-around;
+    padding:15%;
+}
+
+.card{
+    background-color: white;
+    width: 267px;
+    border-radius: 20px;
+
+}
+
+
+.hcenter {
+    margin: auto;
+}

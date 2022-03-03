@@ -1,0 +1,21 @@
+.complete{
+    color:#C4C4C4;
+    text-decoration: line-through;
+}
+
+.incomplete{
+    text-decoration: none;
+    color:black
+}
+
+.task-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.text-styling{
+    font-size:14px;
+    font-weight: 700px;
+    text-align: left;
+}

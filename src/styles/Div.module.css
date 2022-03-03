@@ -1,0 +1,6 @@
+.gray-div{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color:#F2F2F2;
+    padding:15px 25px;
+}
